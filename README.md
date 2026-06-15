@@ -11,7 +11,7 @@
 <h1 align="center">Explyt</h1>
 
 <p align="center">
-Stop Paying Tokens for Context Your IDE Already Knows. Let AI Drive Your JetBrains Tools Directly.
+AI agent for JetBrains IDEs: debugger, refactorings, and symbol navigation via IDE — fewer tokens, more precision
 </p>
 
 <p align="center">
